@@ -18,4 +18,4 @@ list = [num % 1 for num in list_numbers if num % 1 > 0.1]
 
 print(round(max(list), 2))
 print(round(min(list), 2))
-print(round((max(list) - min(list)), 2))
+print(round((max(list) - min(list)), 2)) 
