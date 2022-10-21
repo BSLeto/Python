@@ -7,5 +7,5 @@ num_list = []
 for i in range(num):
     rand_num = random.randrange(11)
     num_list.append(rand_num)
-print(num_list)
+print(num_list) 
 print(set(num_list))
